@@ -4,6 +4,7 @@
 | -------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
 | [EN-US](./README.md)       | <img width="50%" alt="Node4Devs Logo" title="Bandeira dos Estados Unidos (EUA)" src="./assets/images/flags/usa.svg" /> |
 | [PT-BR](./README-PT-BR.md) | <img width="50%" alt="Node4Devs Logo" title="Bandeira do Brasil (BR)" src="./assets/images/flags/brazil.svg" />        |
+| [ZH-CN](./README-ZH-CN.md) | <img width="50%" alt="Node4Devs Logo" title="China Flag (CN)" src="./assets/images/flags/china.svg" />      |
 
 </div>
 
